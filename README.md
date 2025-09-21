@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Frida](https://github.com/frida/frida)
 
-- 🌱 I’m currently learning **Java , C++ , C , PHP, JavaScript**
+- 🌱 I’m currently learning **Java , C++ ,Python , PHP, JavaScript**
 
 - 👯 I’m looking to collaborate on [LSPosed](https://github.com/LSPosed/LSPosed)
 
