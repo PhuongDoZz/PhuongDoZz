@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with [pine](https://github.com/canyie/pine)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PhuongDoZz](https://github.com/PhuongDoZz)
-
 - 📝 I regularly write articles on [https://github.com/PhuongDoZz](https://github.com/PhuongDoZz)
 
 - 💬 Ask me about **Life**
