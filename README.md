@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **doanhphuongdo@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/PhuongDoZz](https://github.com/PhuongDoZz)
-
 - ⚡ Fun fact **I love cats xD**
 
 <h3 align="left">Connect with me:</h3>
